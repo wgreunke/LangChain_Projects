@@ -9,8 +9,8 @@
 Asks the LLM to query a tool and then give a resonse.  
 ## Flow or information
 * Action: yahoo_finance_news
-Action Input: MSFT
-Observation: Forget Inflation, Buy These 5 Stocks on the Ongoing Tech Rally
+* Action Input: MSFT
+*Observation: Forget Inflation, Buy These 5 Stocks on the Ongoing Tech Rally
 Stocks like NVIDIA Corporation, Amazon.com, Inc. (AMZN), Meta Platforms, Inc. (META), Logitech International (LOGI) and Microsoft Corporation (MSFT) are ongoing leading the tech rally.
-Thought:I now know the final answer
-Final Answer: The financial news for
+* Thought:I now know the final answer
+* Final Answer: The financial news for
